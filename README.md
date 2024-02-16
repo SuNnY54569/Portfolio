@@ -5,13 +5,11 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 - Email : __sorawisson@gmail.com__
 - Phone number : __081-644-4838__
 
-
-
+## 📖 Education
+- __Bangkok University (Undergraduate)__ 2021 - Present<br>School of Information Technology and Innovation, Games and Interactive Media
+- __Assumption College (High School Graduated)__ 2015 - 2020  
 
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=unity,cs,github)
 
-
-## 📖 Education
-- __Bangkok University (Undergraduate)__ 2021 - Present<br>School of Information Technology and Innovation, Games and Interactive Media
-- __Assumption College (High School Graduated)__ 2015 - 2020  
+### 
