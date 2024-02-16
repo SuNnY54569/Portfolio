@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: 7df192e1183ebe4478ede49ebde47763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3167604415719849061
+    second: Run_1
+  - first:
+      213: 372805079222218275
+    second: Run_2
+  - first:
+      213: 7325919005187667424
+    second: Run_3
+  - first:
+      213: 6748903872399830201
+    second: Run_4
+  - first:
+      213: 7400662153855161571
+    second: Run_5
+  - first:
+      213: 3213193839136379775
+    second: Run_6
+  - first:
+      213: -8146240547782765890
+    second: Idle
+  - first:
+      213: 5819352421398450943
+    second: Attack1_1
+  - first:
+      213: 8174522525286242559
+    second: Attack1_2
+  - first:
+      213: 8403630924877188527
+    second: Attack1_3
+  - first:
+      213: 4235936756931633583
+    second: Attack1_4
+  - first:
+      213: 670149217647602203
+    second: Attack1_5
+  - first:
+      213: 7763797173750518327
+    second: Transition1_1
+  - first:
+      213: -8661438409927377090
+    second: Transition1_2
+  - first:
+      213: 1656912152637481748
+    second: Transition1_3
+  - first:
+      213: 203371222569235871
+    second: Attack2_1
+  - first:
+      213: -3453001540536995217
+    second: Attack2_2
+  - first:
+      213: -7695506904339268959
+    second: Attack2_3
+  - first:
+      213: -5059829209470236634
+    second: IMG_0294_18
+  - first:
+      213: -7499250793770213896
+    second: Transition2_1
+  - first:
+      213: 5949437490223529468
+    second: Transition2_2
+  - first:
+      213: 5210749292587704615
+    second: Attack3_1
+  - first:
+      213: -7639479888221789949
+    second: Attack3_2
+  - first:
+      213: -5421593538085603472
+    second: Attack3_3
+  - first:
+      213: 7647193291592266676
+    second: IMG_0294_24
+  - first:
+      213: -8958574164177885092
+    second: Transition3_1
+  - first:
+      213: -3390225945772683297
+    second: IMG_0294_26
+  - first:
+      213: 5340001426243110322
+    second: IMG_0294_27
+  - first:
+      213: 264824115795350717
+    second: IMG_0294_28
+  - first:
+      213: -861521719255871107
+    second: Transition3_2
+  - first:
+      213: -4221176427328824004
+    second: Transition3_3
+  - first:
+      213: -3258558648733458121
+    second: Transition3_4
+  - first:
+      213: -1377198478543820928
+    second: Block
+  - first:
+      213: -2284634329416167265
+    second: Run_1
+  - first:
+      213: 9097644311584883140
+    second: Run_2
+  - first:
+      213: -1583216684133826774
+    second: Run_3
+  - first:
+      213: -2734747373000880614
+    second: Run_4
+  - first:
+      213: 3507695668031396202
+    second: Run_5
+  - first:
+      213: -6033095217306073219
+    second: Run_6
+  - first:
+      213: 1410310989135833198
+    second: Idle
+  - first:
+      213: 2740673057853292990
+    second: Attack1_1
+  - first:
+      213: 930140453916273027
+    second: Attack1_2
+  - first:
+      213: -2856364767124842651
+    second: Attack1_3
+  - first:
+      213: -528627505730958439
+    second: Attack1_4
+  - first:
+      213: -1541124229610013343
+    second: Attack1_6
+  - first:
+      213: 3050862587320557995
+    second: Transition1_1
+  - first:
+      213: 1453481905536999049
+    second: Transition1_2
+  - first:
+      213: -8790110274654492478
+    second: Attack2_1
+  - first:
+      213: 9095954531317988811
+    second: Attack2_2
+  - first:
+      213: -599522551778259239
+    second: Attack2_3
+  - first:
+      213: -7713713351590875507
+    second: Transition2_1
+  - first:
+      213: -8023919641302945262
+    second: Muzashi_22
+  - first:
+      213: -9072046722543959332
+    second: Attack3_1
+  - first:
+      213: 7125867987827802027
+    second: Muzashi_24
+  - first:
+      213: 8840846502975283178
+    second: Attack3_3
+  - first:
+      213: 1246878545649797749
+    second: Muzashi_26
+  - first:
+      213: -3209219557824111843
+    second: Muzashi_28
+  - first:
+      213: 1552788013827414805
+    second: Transition3_4
+  - first:
+      213: 1860126213121649215
+    second: Blocl
+  - first:
+      213: -5295619260777127518
+    second: Attack1_5
+  - first:
+      213: 4966611272619156059
+    second: Attack2_4
+  - first:
+      213: -8969745442813855008
+    second: Attack3_2
+  - first:
+      213: 6296637313113967647
+    second: Muzashi_12
+  - first:
+      213: 2245681682688357825
+    second: Muzashi_15
+  - first:
+      213: 4552309137709567900
+    second: Muzashi_16
+  - first:
+      213: -8810230857943026866
+    second: Muzashi_20
+  - first:
+      213: 7898388920634250413
+    second: Transition3_1
+  - first:
+      213: 5119706155476595694
+    second: Muzashi_29
+  - first:
+      213: 5546836159085865701
+    second: Transition3_2
+  - first:
+      213: 4035205565041733080
+    second: Transition3_3
+  - first:
+      213: 236665237323392248
+    second: Muzashi_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3493
+        width: 230
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909c719e295b40e0800000000000000
+      internalID: 3167604415719849061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3496
+        width: 243
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1cedccc43514e70800000000000000
+      internalID: 372805079222218275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3490
+        width: 243
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5318978, y: 0.49345085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3bb360d8470ae0800000000000000
+      internalID: 7325919005187667424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3491
+        width: 244
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.49114257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e89d9e0c93c0ad0800000000000000
+      internalID: 6748903872399830201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3510
+        width: 264
+        height: 335
+      alignment: 9
+      pivot: {x: 0.46476838, y: 0.462981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69103120a6dda030800000000000000
+      internalID: 7400662153855161571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_6
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 3494
+        width: 253
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5245101, y: 0.4784102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770d545dd3264ca0800000000000000
+      internalID: 3213193839136379775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3098
+        width: 231
+        height: 357
+      alignment: 9
+      pivot: {x: 0.66075647, y: 0.5248736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68654a5f5e629310800000000000000
+      internalID: -8146240547782765890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3100
+        width: 254
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb144da10a3d80620800000000000000
+      internalID: 5819352421398450943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3087
+        width: 268
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38966e290d588ec00800000000000000
+      internalID: 8174522525286242559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3085
+        width: 335
+        height: 375
+      alignment: 9
+      pivot: {x: 0.34376222, y: 0.49335352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5671592c0672c58d0800000000000000
+      internalID: 8403630924877188527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3090
+        width: 278
+        height: 373
+      alignment: 9
+      pivot: {x: 0.44172505, y: 0.4866364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc7669510f9a8f0800000000000000
+      internalID: 4235936756931633583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2607
+        width: 391
+        height: 408
+      alignment: 9
+      pivot: {x: 0.34323737, y: 0.45618215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df85bada3dc9ae0800000000000000
+      internalID: -1541124229610013343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2878
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc0a77646226750800000000000000
+      internalID: 6296637313113967647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition1_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2596
+        width: 378
+        height: 409
+      alignment: 9
+      pivot: {x: 0.36837366, y: 0.44691643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba165c7eb57d65a20800000000000000
+      internalID: 7763797173750518327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition1_2
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2585
+        width: 398
+        height: 404
+      alignment: 9
+      pivot: {x: 0.3679144, y: 0.5473173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9dfa971ecb2410800000000000000
+      internalID: -8661438409927377090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2758
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bd3f97934a2f10800000000000000
+      internalID: 2245681682688357825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2762
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f81f4aa0d0d2f30800000000000000
+      internalID: 4552309137709567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2136
+        width: 304
+        height: 385
+      alignment: 9
+      pivot: {x: 0.44798023, y: 0.5638957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c825b6f641430680800000000000000
+      internalID: 203371222569235871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2116
+        width: 310
+        height: 411
+      alignment: 9
+      pivot: {x: 0.4659914, y: 0.512826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd305c24725b3e70800000000000000
+      internalID: -3453001540536995217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2130
+        width: 768
+        height: 411
+      alignment: 9
+      pivot: {x: 0.25748172, y: 0.47648707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9decb626a611ea7f0800000000000000
+      internalID: -7695506904339268959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition2_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1627
+        width: 396
+        height: 416
+      alignment: 9
+      pivot: {x: 0.39407688, y: 0.4716967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eec33639263f490800000000000000
+      internalID: -7499250793770213896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1853
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212bbd9499f45a090800000000000000
+      internalID: -8023919641302945262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3_1
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1632
+        width: 744
+        height: 425
+      alignment: 9
+      pivot: {x: 0.20640843, y: 0.49278635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd24505529d991280800000000000000
+      internalID: 5210749292587704615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1736
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafbdc23e2b24e260800000000000000
+      internalID: 7125867987827802027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1076
+        width: 446
+        height: 425
+      alignment: 9
+      pivot: {x: 0.34468797, y: 0.48641744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef989bbd0ff0ba70800000000000000
+      internalID: -5421593538085603472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition3_1
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1066
+        width: 391
+        height: 414
+      alignment: 9
+      pivot: {x: 0.3822368, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4194830e6bc9d60800000000000000
+      internalID: -8958574164177885092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition3_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 585
+        width: 324
+        height: 414
+      alignment: 9
+      pivot: {x: 0.46492946, y: 0.52058464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaea9929125afc40800000000000000
+      internalID: -861521719255871107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition3_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 571
+        width: 263
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5576063, y: 0.51829743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddedfbf41eeff730800000000000000
+      internalID: -4221176427328824004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transition3_4
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 561
+        width: 264
+        height: 431
+      alignment: 9
+      pivot: {x: 0.69727165, y: 0.50219685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bdaa7b87c9c8510800000000000000
+      internalID: -3258558648733458121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocl
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 557
+        width: 252
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a228a7fee70d910800000000000000
+      internalID: 1860126213121649215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 519
+        height: 386
+      alignment: 9
+      pivot: {x: 0.24497673, y: 0.47593737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a9a7f65e2286b0800000000000000
+      internalID: 670149217647602203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 54
+        width: 490
+        height: 414
+      alignment: 9
+      pivot: {x: 0.31518355, y: 0.4813039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526ae163a2fce440800000000000000
+      internalID: 4966611272619156059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 71
+        width: 640
+        height: 423
+      alignment: 9
+      pivot: {x: 0.23635006, y: 0.49268106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eab6632b00158380800000000000000
+      internalID: -7639479888221789949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzashi_37
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 164
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4285987cdc84300800000000000000
+      internalID: 236665237323392248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Run_6: 3213193839136379775
+      Muzashi_22: -8023919641302945262
+      Attack1_5: 670149217647602203
+      Run_2: 372805079222218275
+      Blocl: 1860126213121649215
+      Idle: -8146240547782765890
+      Muzashi_15: 2245681682688357825
+      Transition3_2: -861521719255871107
+      Muzashi_24: 7125867987827802027
+      Transition1_1: 7763797173750518327
+      Attack1_6: -1541124229610013343
+      Muzashi_37: 236665237323392248
+      Muzashi_16: 4552309137709567900
+      Transition2_1: -7499250793770213896
+      Run_1: 3167604415719849061
+      Attack3_1: 5210749292587704615
+      Attack2_4: 4966611272619156059
+      Transition1_2: -8661438409927377090
+      Transition3_3: -4221176427328824004
+      Attack3_3: -5421593538085603472
+      Attack3_2: -7639479888221789949
+      Attack1_3: 8403630924877188527
+      Attack1_2: 8174522525286242559
+      Attack2_2: -3453001540536995217
+      Attack1_4: 4235936756931633583
+      Run_3: 7325919005187667424
+      Attack1_1: 5819352421398450943
+      Run_4: 6748903872399830201
+      Transition3_4: -3258558648733458121
+      Attack2_1: 203371222569235871
+      Attack2_3: -7695506904339268959
+      Transition3_1: -8958574164177885092
+      Muzashi_12: 6296637313113967647
+      Run_5: 7400662153855161571
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
