@@ -12,4 +12,5 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=unity,cs,github)
 
-### 
+## 🎮 Download or play my project
+[Itch.io](https://sunny54569.itch.io/)
