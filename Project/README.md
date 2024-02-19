@@ -37,7 +37,7 @@ __Link :__ [Itch.io](https://sunny54569.itch.io/bully-favourite)
 
 Game Developer
 
-
+![ezgif-4-d406ab48df](https://github.com/SuNnY54569/Portfolio/assets/87000150/9ce943e8-bb9b-40b8-9eb2-6bfa14941829)
 
 __Link :__ [Itch.io](https://sunny54569.itch.io/shooting-range)
 
@@ -47,7 +47,7 @@ __Link :__ [Itch.io](https://sunny54569.itch.io/shooting-range)
 
 Game Developer
 
-
+![ezgif-4-e9e7d20212](https://github.com/SuNnY54569/Portfolio/assets/87000150/3e038d8b-536e-4216-9016-399ad9ac2be1)
 
 __Link :__ [Itch.io](https://sunny54569.itch.io/maggy-the-dinosaur-v2)
 
