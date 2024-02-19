@@ -6,7 +6,6 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 - Phone number : __081-644-4838__
 [![Linkedin](https://skillicons.dev/icons?i=,linkedin)](https://www.linkedin.com/in/sorawis-leepiyasakulchai-3925622ab/) [![Linkedin](https://skillicons.dev/icons?i=,github)](https://github.com/SuNnY54569)
 
-
 ## 📖 Education
 - __Bangkok University (Undergraduate)__ 2021 - Present<br>School of Information Technology and Innovation, Games and Interactive Media
 - __Assumption College (High School Graduated)__ 2015 - 2020  
@@ -16,3 +15,7 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 
 ## 🎮 Download or play my project
 [Itch.io](https://sunny54569.itch.io/)
+
+## Volunteer Activity (BU Workcamp)
+
+[Link](https://github.com/SuNnY54569/BU-workcamp)
