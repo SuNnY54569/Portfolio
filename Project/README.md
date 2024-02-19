@@ -2,7 +2,7 @@
   <h1>Project</h1>
 </div>
 <div align="center">
-All of the games I created while studying at Bangkok University (BU) are contained in this folder. It includes 2D, 3D, and VR games.
+This folder contains every game I made while attending Bangkok University (BU). 2D, 3D, and VR games are all included, arranged by year of development.
 </div>
 
 ## 2021
@@ -55,7 +55,7 @@ __Link :__ [Itch.io](https://sunny54569.itch.io/maggy-the-dinosaur-v2)
 
 Game Developer, UX UI Designer
 
-
+![ezgif-4-204498ad13](https://github.com/SuNnY54569/Portfolio/assets/87000150/215257e7-d1f1-4650-a069-fe8e5b49d7b6)
 
 __Link :__ [Itch.io](https://sunny54569.itch.io/maggy-the-dinosaur-v2)
 
