@@ -19,3 +19,7 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 ## Volunteer Activity (BU Workcamp)
 
 [Link](https://github.com/SuNnY54569/BU-workcamp)
+
+## 🏅 Certification
+
+![Game Developer certificate_page-0001](https://github.com/SuNnY54569/Portfolio/assets/87000150/49a2e091-0aa5-4f14-8ba0-f82cbdac376a)
