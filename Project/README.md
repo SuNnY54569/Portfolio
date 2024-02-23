@@ -87,7 +87,7 @@ Game Developer, UX UI Designer
 Virtual Reality Game About a Monk Surviving from Ghosts 
 
 Highlight of work
-- VR game Development
+- VR game development
 
 ![ezgif-4-204498ad13](https://github.com/SuNnY54569/Portfolio/assets/87000150/215257e7-d1f1-4650-a069-fe8e5b49d7b6)
 
