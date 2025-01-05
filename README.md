@@ -107,7 +107,7 @@ You can [download this game](https://sunny54569.itch.io/monk-vs-ghost) from Itch
 ## 2024
 
 ### 🍽️ Stomach Struggle (PC & Android) | Thesis Project
-* Worked as Unity Developer
+* Worked as Game Developer
 * Developed a minigame collection with 9 unique minigames for กรมควบคุมโรค (Department of Disease Control).
 * Integrated Firebase to store player data and linked it with Google Sheets for efficient database management and delivery to the client.
 * Focused on creating engaging and seamless gameplay experiences across both PC and Android platforms.
