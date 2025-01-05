@@ -114,6 +114,8 @@ You can [download this game](https://sunny54569.itch.io/monk-vs-ghost) from Itch
 - **Lobby Management**: Assisted in generating and finding active lobbies for players to join.
 - **Team Color**: Implemented team color selection to enhance the multiplayer experience.
 
+![TerraForge GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
+
 You can [play TerraForge on Itch.io](https://phiraphonware.itch.io/terraforge).
 
 ## 2024
