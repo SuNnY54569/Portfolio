@@ -103,3 +103,15 @@ You can [play this game](https://sunny54569.itch.io/shooting-range) directly on 
 You can [download this game](https://sunny54569.itch.io/monk-vs-ghost) from Itch.io and unzip the files to play.
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Monk%20vs%20Ghost)
+
+## 2024
+
+### 🍽️ Stomach Struggle (PC & Android) | Thesis Project
+* Worked as Unity Developer
+* Developed a minigame collection with 9 unique minigames for กรมควบคุมโรค (Department of Disease Control).
+* Integrated Firebase to store player data and linked it with Google Sheets for efficient database management and delivery to the client.
+* Focused on creating engaging and seamless gameplay experiences across both PC and Android platforms.
+
+You can [play Stomach Struggle on Itch.io](https://sunny54569.itch.io/stomach-struggle).
+
+[This game repository](https://github.com/SuNnY54569/Stomach-Struggle)
