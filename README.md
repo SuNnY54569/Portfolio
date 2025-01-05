@@ -104,6 +104,18 @@ You can [download this game](https://sunny54569.itch.io/monk-vs-ghost) from Itch
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Monk%20vs%20Ghost)
 
+### 🌍 TerraForge - Multiplayer 
+* Worked as Game Developer
+* Science Fiction Real-Time Strategy (RTS)
+* a science fiction real-time strategy game where players engage in strategic battles and resource management to dominate the Enemy. The game features multiplayer functionality, allowing players to connect and compete in real-time within the same lobby.
+
+**Key Contributions**:
+- **Multiplayer Connection**: Developed the system for players to connect and play in the same lobby.
+- **Lobby Management**: Assisted in generating and finding active lobbies for players to join.
+- **Team Color**: Implemented team color selection to enhance the multiplayer experience.
+
+**Note**: This project belongs to my friend, and I do not have a link to play the game at the moment.
+
 ## 2024
 
 ### 🍽️ Stomach Struggle (PC & Android) | Thesis Project
