@@ -112,6 +112,8 @@ You can [download this game](https://sunny54569.itch.io/monk-vs-ghost) from Itch
 * Integrated Firebase to store player data and linked it with Google Sheets for efficient database management and delivery to the client.
 * Focused on creating engaging and seamless gameplay experiences across both PC and Android platforms.
 
+![Stomach Struggle GIF](https://github.com/SuNnY54569/SuNnY54569/blob/840ff9a3d35d054b0a5cf1473f4fcba0f4c86166/StomachStruggle.gif?raw=true)
+
 You can [play Stomach Struggle on Itch.io](https://sunny54569.itch.io/stomach-struggle).
 
 [This game repository](https://github.com/SuNnY54569/Stomach-Struggle)
