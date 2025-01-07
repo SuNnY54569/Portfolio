@@ -27,10 +27,10 @@ You can [play Stomach Struggle on Itch.io](https://sunny54569.itch.io/stomach-st
 * Science Fiction Real-Time Strategy (RTS)
 * A science fiction real-time strategy game where players engage in strategic battles and resource management to dominate the Enemy. The game features multiplayer functionality, allowing players to connect and compete in real-time within the same lobby.
 
-**Key Contributions**:
-- **Multiplayer Connection**: Developed the system for players to connect and play in the same lobby.
-- **Lobby Management**: Assisted in generating and finding active lobbies for players to join.
-- **Team Color**: Implemented team color selection to enhance the multiplayer experience.
+## Key Contributions  
+- **Multiplayer Connection:** Developed the system for real-time player connections using the Unity Netcode framework.  
+- **Lobby Management:** Implemented systems for generating and discovering active lobbies, ensuring smooth matchmaking.  
+- **Team Customization:** Designed and integrated team color selection to personalize and enhance the multiplayer experience.  
 
 ![TerraForge GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
 
