@@ -6,6 +6,17 @@
 In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder contains every game I made while attending Bangkok University (BU). 2D, 3D, and VR games are all included, arranged by year of development.
 </div>
 
+## Internship Experience  
+
+### WolvEden Production (18 June 2024 – 31 August 2024)  
+* Worked as Unity Developer 
+* Designed and implemented AI behaviors for enemies and bosses in **QuartCore**, a third-person shooter showcased at BU OpenHouse 2024, demonstrating advanced gameplay mechanics and engaging player experiences.  
+* Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.
+
+<img src="https://github.com/SuNnY54569/SuNnY54569/blob/main/WolvEden%20Cer.jpg" alt="WolvEden Certification" width="600"/>
+
+![QuartCore Picture](https://github.com/SuNnY54569/SuNnY54569/blob/main/QuartzCore_Cover.png)
+
 ## 2024
 
 ### 🍽️ Stomach Struggle (PC & Android) | Thesis Project
