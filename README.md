@@ -10,8 +10,14 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 
 ### WolvEden Production (18 June 2024 – 31 August 2024)  
 * Worked as Unity Developer 
-* Designed and implemented AI behaviors for enemies and bosses in **QuartCore**, a third-person shooter showcased at BU OpenHouse 2024, demonstrating advanced gameplay mechanics and engaging player experiences.  
-* Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.
+**Projects:**  
+  - **QuartCore:**  
+    - Designed and implemented AI behaviors for enemies and bosses in a third-person shooter showcased at **BU OpenHouse 2024**.  
+    - Developed an enemy coin drop system and implemented coin and bullet pooling for optimized performance and gameplay fluidity.  
+
+  - **TwinTrouble (Training Project):**  
+    - Created a couch co-op puzzle game during the training program based on the theme "Buddy."  
+    - Highlighted creative problem-solving and cooperative gameplay mechanics.  
 
 <img src="https://github.com/SuNnY54569/SuNnY54569/blob/main/WolvEden%20Cer.jpg" alt="WolvEden Certification" width="600"/>
 
