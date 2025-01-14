@@ -22,6 +22,7 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 <img src="https://github.com/SuNnY54569/SuNnY54569/blob/main/WolvEden%20Cer.jpg" alt="WolvEden Certification" width="600"/>
 
 ![QuartCore Picture](https://github.com/SuNnY54569/SuNnY54569/blob/main/QuartzCore_Cover.png)
+![Twintrouble Picture](https://github.com/SuNnY54569/SuNnY54569/blob/48d738550b18cfa59b8126598a89dfde1936dc07/Twin%20Trouble.png)
 
 ## 2024
 
