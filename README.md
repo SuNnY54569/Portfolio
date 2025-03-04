@@ -6,6 +6,16 @@
 In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder contains every game I made while attending Bangkok University (BU). 2D, 3D, and VR games are all included, arranged by year of development.
 </div>
 
+## Certificate
+
+### [Unity Certified Associate: Game Developer](https://www.credly.com/badges/89b8e7bf-7a64-4a9f-86cb-f3dd4888e08c/public_url)  
+
+![Unity Certificate](https://github.com/SuNnY54569/SuNnY54569/blob/48d738550b18cfa59b8126598a89dfde1936dc07/Unity%20Game%20Developer%20badge.png)
+
+### Game Tester
+
+![Game Tester Certificate](https://github.com/SuNnY54569/SuNnY54569/blob/759e853867f6ad640a80286f9f0a59a81f968bf1/QA%20Tester%20Certificate.png)
+
 ## Internship Experience  
 
 ### WolvEden Production (18 June 2024 – 31 August 2024)  
