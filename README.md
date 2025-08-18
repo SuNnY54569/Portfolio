@@ -27,12 +27,49 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 
   - **TwinTrouble (Training Project):**  
     - Created a couch co-op puzzle game during the training program based on the theme "Buddy."  
-    - Highlighted creative problem-solving and cooperative gameplay mechanics.  
+    - Highlighted creative problem-solving and cooperative gameplay mechanics.
 
 <img src="https://github.com/SuNnY54569/SuNnY54569/blob/main/WolvEden%20Cer.jpg" alt="WolvEden Certification" width="600"/>
 
 ![QuartCore Picture](https://github.com/SuNnY54569/SuNnY54569/blob/main/QuartzCore_Cover.png)
 ![Twintrouble Picture](https://github.com/SuNnY54569/SuNnY54569/blob/48d738550b18cfa59b8126598a89dfde1936dc07/Twin%20Trouble.png)
+
+---
+
+### Vonder Games (13 May 2025 – 15 August 2025)  
+**Game Developer Intern**  
+
+During my internship at Vonder Games, I contributed to the development of *Aether Wizard Life* by expanding existing systems, refining gameplay mechanics, and improving overall user experience. My responsibilities included:  
+
+- **Gameplay Systems & Mechanics**  
+  - Extended follower systems by adding new elemental skills, projectiles, buffs, and balancing durability mechanics.  
+  - Adjusted and polished combat features such as elemental interactions, boss fight conditions, and skill effects.  
+  - Enhanced existing minigames (cooking, grinder, roaster, etc.) with animations, logic fixes, and smoother interaction flow.  
+
+- **UI/UX Development**  
+  - Improved and extended in-game panels (Friend page, Influence panel, Dashboard, Recipe/Spellbook, Quick Access menu).  
+  - Refined player experience with better input remapping, tutorial flows, quest tracking, notifications, and autosave behavior.  
+  - Collaborated with designers to update layouts, UI logic, and user interaction for clarity and usability.  
+
+- **Content Integration & Worldbuilding**  
+  - Configured and updated building prefabs (elemental towers, tavern, Theodore’s bedroom, storage room).  
+  - Edited and reworked scenario scripting, quest logic, and relationship effects to align with narrative flow.  
+  - Helped integrate new art, sprites, and VFX into existing systems while ensuring consistency and performance.  
+
+- **Debugging & Optimization**  
+  - Fixed a wide range of bugs related to gameplay, UI, save/load, input handling, and quest triggers.  
+  - Reworked parts of the input system for both keyboard/mouse and controller play.  
+  - Tested and refined core systems to improve stability, usability, and player experience.  
+
+**Key Achievements**  
+- Added multiple elemental followers with unique skills and animations by extending existing frameworks.  
+- Expanded and stabilized the autosave system to improve early- and mid-game progression.  
+- Improved Quick Access menus, tutorials, and UI navigation, making systems more intuitive.  
+- Supported cross-team workflows by polishing features, fixing integration issues, and preparing builds for review.
+
+---
+
+## Project At Bangkok University
 
 ## 2024
 
