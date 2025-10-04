@@ -16,6 +16,17 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 
 ![Game Tester Certificate](https://github.com/SuNnY54569/SuNnY54569/blob/759e853867f6ad640a80286f9f0a59a81f968bf1/QA%20Tester%20Certificate.png)
 
+## Work Experience
+
+### AssignDev Co., LTD (15 Sep 2025 – Present)  
+**Game Developer**  
+At AssignDev Co., LTD, I contribute to ongoing projects by developing new features, fixing bugs, and collaborating across teams to ensure smooth production. Key responsibilities include:  
+- Contribute to the implementation of gameplay features and bug fixes for active projects.  
+- Collaborate with artists and marketing teams to align project objectives and enhance user experience.  
+- Participate in sprint reviews, providing feedback and suggestions to improve workflow and project outcomes.  
+
+---
+
 ## Internship Experience  
 
 ### WolvEden Production (18 June 2024 – 31 August 2024)  
